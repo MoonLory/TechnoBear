@@ -11,6 +11,9 @@ After installation you need just open your browser and set the link of host wher
 
 ## Contributing: 
 Pavel - Mobile Development, Design
+
 Andrei - DevOps, Design
+
 Fedor - FrontEnd, BackEnd
+
 Aliaksei - DevOps, Backend
